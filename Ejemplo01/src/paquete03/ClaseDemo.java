@@ -12,6 +12,7 @@ public class ClaseDemo {
 
     public static void main(String[] args) {
         System.out.println("Mensaje demo");
+        
     }
 
-    }
+}

@@ -20,7 +20,7 @@ public class Ejemplo01 {
         nombreEstudiante = "René Elizalde";
         System.out.println(nombreEstudiante);
         System.out.println("René Elizalde");
-        nombreEstudiante = "Felipe Elizalde";
+        //nombreEstudiante = "Felipe Elizalde"; //En este momento la variable recibe otro valor
         System.out.println(nombreEstudiante);
     }
     
